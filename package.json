@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "hbs": "^4.2.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "name": "fermats_njs_test_task",
+  "version": "1.0.0",
+  "description": "nodejs test task",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Horielikov Maksym",
+  "license": "ISC"
+}
