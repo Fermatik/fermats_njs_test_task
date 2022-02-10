@@ -1,7 +1,7 @@
 
 # NodeJS test task
 
-As a result send us a link to the git-repository.
+Test task execution module.
 
 ## Task 
 
